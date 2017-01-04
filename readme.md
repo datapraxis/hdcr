@@ -6,6 +6,7 @@ source(s), data types and formats, the quality of data, in addition to
 documenting methods and tools used to subset, transform, augment, and
 derive insight from data. With this record another researcher should be
 able to  
+
 **(1)** understand how your data are organized  
 **(2)** access the methods and tools used to  support analysis  
 **(3)** be exposed to your approach to cleaning or transforming data  
