@@ -17,7 +17,7 @@ When, where, and by whom the data were created
 
 What the data topically describes (e.g. Black Death mortality rates)
 
-Describe data features briefly (e.g. x no. of records, mixture of text and tabular data)
+Describe data features briefly (e.g. no. of records, mixture of text and tabular data)
 
 Licensing, e.g. CC-BY-SA
 
