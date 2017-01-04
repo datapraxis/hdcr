@@ -1,16 +1,16 @@
 #Humanities Data Curation Record
 
-Your data curation record supports reuse of your data and
-reproducibility of your research results by documenting your data
+A data curation record supports reuse of data and
+reproducibility of claims by documenting data
 source(s), data types and formats, the quality of data, in addition to
 documenting methods and tools used to subset, transform, augment, and
 derive insight from data. With this record another researcher should be
 able to  
 
-**(1)** understand how your data are organized  
-**(2)** access the methods and tools used to  support analysis  
-**(3)** be exposed to your approach to cleaning or transforming data  
-**(4)** identify the source of your data
+**(1)** understand how data are organized  
+**(2)** access the methods and tools used to support analysis  
+**(3)** be exposed to data cleaning and transformation processes  
+**(4)** identify data source(s)
 
 ##Summary
 
