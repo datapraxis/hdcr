@@ -2,8 +2,7 @@
 
 A data curation record supports reuse of data and
 reproducibility of claims by documenting data
-source(s), data types and formats, the quality of data, in addition to
-documenting methods and tools used to subset, transform, augment, and
+source(s), data types and formats, data quality, as well as methods and tools used to subset, transform, augment, and
 derive insight from data. With this record another researcher should be
 able to  
 
