@@ -50,3 +50,8 @@ Further reading: [*http://www.fim.uni-passau.de/fileadmin/files/lehrstuhl/brande
 
 **SVG** is an XML-based image format for capturing (relatively) static images of all or part of a graph. SVG is probably the best option for this type of capture, because its XML foundation makes it trustworthy in
 the long run, and also allows for some simple aesthetic modifications to be made using Javascript.
+
+---
+*Humanities Data Curation Record*  
+Brandon Locke  
+CC-BY 4.0
