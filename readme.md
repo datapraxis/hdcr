@@ -30,8 +30,6 @@ Uncompressed vs. compressed images
 
 ##Type, Format, Extent, Size
 
-**type | format | extent | size**
-
 text. .txt, 100 files, 10MB
 
 ##Filenaming Conventions
