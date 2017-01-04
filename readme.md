@@ -60,7 +60,7 @@ MI: Michigan State University. https://www.lib.msu.edu/feedingamerica/
 
 ##Licensing
 
-CC-BY 4.0
+e.g. CC-BY 4.0
 
 ---
 *Humanities Data Curation Record*  
