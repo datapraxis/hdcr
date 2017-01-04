@@ -16,9 +16,9 @@ able to
 
 When, where, and by whom the data were created
 
-What the data describes (e.g. Black Death mortality rates)
+What the data topically describes (e.g. Black Death mortality rates)
 
-Briefly described data features
+Describe data features briefly (e.g. x no. of records, mixture of text and tabular data)
 
 Licensing, e.g. CC-BY-SA
 
@@ -41,7 +41,7 @@ text. .txt, 100 files, 10MB
 
 19401021\_hemingway\_ernest\_forwhomthebelltolls\_.txt
 
-Methods & Tools
+##Methods & Tools
 
 **method | approach | algorithm | tool**
 
