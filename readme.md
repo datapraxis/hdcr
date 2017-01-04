@@ -59,8 +59,7 @@ Michigan State University Libraries. “Feeding America”. East Lansing,
 MI: Michigan State University. https://www.lib.msu.edu/feedingamerica/
 
 ##Licensing
-What is the copyright and re-use status of the data
- 
+
 CC-BY 4.0
 
 ---
