@@ -18,14 +18,14 @@ When, where, and by whom the data were created
 
 What the data describes (e.g. Black Death mortality rates)
 
-Briefly, describe features of the data
+Briefly described data features
 
-Consider licensing, e.g. CC-BY-SA
+Licensing, e.g. CC-BY-SA
 
 ##Quality
 
 
-Quality of text data (OCR vs. hand transcribed)
+Quality of data (OCR vs. hand transcribed text)
 
 Uncompressed vs. compressed images
 
@@ -56,7 +56,7 @@ transformation - e.g. converted date formats from mm/dd/yy to yyyy/mm/dd
 cleaning - e.g. Rchrd Jmes to Richard James
 
 ##Source
-Where you gathered your data
+Where source data came from indicated via citation and persistent identifier if available
 
 Michigan State University Libraries. “Feeding America”. East Lansing,
 MI: Michigan State University. https://www.lib.msu.edu/feedingamerica/
