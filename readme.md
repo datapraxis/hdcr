@@ -40,12 +40,6 @@ text. .txt, 100 files, 10MB
 
 19401021\_hemingway\_ernest\_forwhomthebelltolls\_.txt
 
-##Methods & Tools
-
-**method | approach | algorithm | tool**
-
-text analysis, topic modeling, latent dirichlet allocation, MALLET
-
 ##Modifications
 
 augmentation - e.g geocoded location data
@@ -53,6 +47,12 @@ augmentation - e.g geocoded location data
 transformation - e.g. converted date formats from mm/dd/yy to yyyy/mm/dd
 
 cleaning - e.g. Rchrd Jmes to Richard James
+
+##Methods & Tools
+
+**method | approach | algorithm | tool**
+
+text analysis, topic modeling, latent dirichlet allocation, MALLET
 
 ##Source
 Where source data came from indicated via citation and persistent identifier if available
