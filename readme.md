@@ -1,14 +1,15 @@
-#Humanities Data Curation
+#Humanities Data Curation Record
+
 Your data curation record supports reuse of your data and
 reproducibility of your research results by documenting your data
 source(s), data types and formats, the quality of data, in addition to
 documenting methods and tools used to subset, transform, augment, and
 derive insight from data. With this record another researcher should be
-able to 
-**(1)** understand how your data are organized 
-**(2)** access the methods and tools used to support analysis
-**(3)** be exposed to
-your approach to cleaning or transforming data
+able to  
+**(1)** understand how your data are organized  
+**(2)** access the methods and tools used to  support analysis  
+**(3)** be exposed to  
+your approach to cleaning or transforming data  
 **(4)** identify the source of your data
 
 ##Summary
@@ -64,4 +65,11 @@ MI: Michigan State University. https://www.lib.msu.edu/feedingamerica/
 What is the copyright and re-use status of the data
  
 CC-BY 4.0
+
+---
+*Humanities Data Curation Record*  
+Thomas Padilla & Brandon Locke  
+CC-BY 4.0
+
+
 
