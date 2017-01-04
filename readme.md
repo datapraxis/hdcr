@@ -28,7 +28,7 @@ Quality of data (OCR vs. hand transcribed text)
 
 Uncompressed vs. compressed images
 
-##Types, Formats, Extent, Size
+##Type, Format, Extent, Size
 
 **type | format | extent | size**
 
