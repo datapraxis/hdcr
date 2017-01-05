@@ -23,10 +23,7 @@ Licensing (e.g. CC-BY-SA)
 
 ##Quality
 
-
-Quality of data (OCR vs. hand transcribed text)
-
-Uncompressed vs. compressed images
+Quality of data (OCR vs. hand transcribed text, uncompressed vs. compressed images)
 
 ##Type, Format, Extent, Size
 
