@@ -19,7 +19,7 @@ What the data topically describes (e.g. Black Death mortality rates)
 
 Describe data features briefly (e.g. no. of records, mixture of text and tabular data)
 
-Licensing, e.g. CC-BY-SA
+Licensing (e.g. CC-BY-SA)
 
 ##Quality
 
