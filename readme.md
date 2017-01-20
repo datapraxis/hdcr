@@ -19,7 +19,7 @@ What the data topically describes (e.g. Black Death mortality rates)
 
 Describe data features briefly (e.g. no. of records, mixture of text and tabular data)
 
-Licensing (e.g. CC-BY-SA)
+Licensing (e.g. CC-BY-SA, All Rights Reserved)
 
 ##Quality
 
@@ -55,10 +55,10 @@ Where source data came from indicated via citation and persistent identifier if 
 Michigan State University Libraries. “Feeding America”. East Lansing,
 MI: Michigan State University. https://www.lib.msu.edu/feedingamerica/
 
-##Licensing
+##Reuse License
+What is the copyright and re-use status of the data — e.g. CC-BY 4.0, All Rights Reserved
 
-e.g. CC-BY 4.0
-
+=======
 ---
 *Humanities Data Curation Record*  
 Thomas Padilla & Brandon Locke  
