@@ -58,7 +58,6 @@ MI: Michigan State University. https://www.lib.msu.edu/feedingamerica/
 ## Reuse License
 What is the copyright and re-use status of the data — e.g. CC-BY 4.0, All Rights Reserved
 
-=======
 ---
 *Humanities Data Curation Record*  
 Thomas Padilla & Brandon Locke  
